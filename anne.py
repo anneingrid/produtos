@@ -7,7 +7,7 @@ def trataArquivo(arq):
             linha=linha.replace(';','')
         nova.append(linha.split('-'))
     return(nova)
-    arq.close()
+
 
 
 def maiorValor(arq):
@@ -51,3 +51,4 @@ while opcao!=4:
               "\n3. Total"\
               "\n4. Sair\n"))
 
+    arq.close()
