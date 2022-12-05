@@ -1,0 +1,10 @@
+Arroz-19,00
+Feijao-8,00
+Atum-5,35
+Azeite-19,99
+Cafe-5,20;
+Extrato de tomate-2,99;
+Leite-8,89;
+Macarrão-6,00;
+Maionese-4,82;
+Oleo-9,36;
